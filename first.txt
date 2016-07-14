@@ -3,3 +3,4 @@ master init 2
 master init 3
 master after first commit
 commit number 3
+commit number 4
