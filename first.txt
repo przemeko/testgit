@@ -1,0 +1,3 @@
+master init 1
+master init 2
+master init 3
