@@ -7,4 +7,8 @@ commit number 4
 commit number 5
 commit number 6
 commit number 7
+clearone commit 1
+clearone commit 2
+clearone commit 3
+clearone commit 3 with amend
 commit number 8
