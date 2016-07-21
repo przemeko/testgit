@@ -11,3 +11,5 @@ clearone commit 2
 clearone commit 3
 clearone commit 3 with amend
 commit number 7
+clearone commit 4
+clearone commit 5
